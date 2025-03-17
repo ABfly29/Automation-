@@ -79,4 +79,3 @@ Python-docx for handling Word files
 
 Twitter & LinkedIn API docs for social media automation
 
-🎯 Ready to Summarize & Share? Let’s make content creation effortless! 🚀
